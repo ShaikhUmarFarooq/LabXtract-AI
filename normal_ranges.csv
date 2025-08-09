@@ -1,0 +1,56 @@
+Test Name,aliases,gender,min,max,unit
+Hemoglobin,Hemoglobin|Hb|HGB|Haemoglobin,male,13.5,17.5,g/dL
+Hemoglobin,Hemoglobin|Hb|HGB|Haemoglobin,female,12.0,15.5,g/dL
+Hematocrit,Hematocrit|HCT|PCV,female,36,44,%
+Hematocrit,Hematocrit|HCT|PCV,male,41,50,%
+RBC Count,RBC|Red Blood Cells|RBC Count,any,4.2,5.9,x10^6/uL
+WBC Count,WBC|White Blood Cells|Leukocytes|Total WBC Count,any,4000,11000,x10^3/uL
+Platelet Count,Platelets|PLT|Platelet Count,any,150000,450000,x10^3/uL
+MCV,MCV|Mean Corpuscular Volume,any,80,100,fL
+MCH,Mean Corpuscular Hemoglobin|MCH,any,27,33,pg
+MCHC,MCHC|Mean Corpuscular Hemoglobin Concentration,any,32,36,g/dL
+RDW,RDW|Red Cell Distribution Width,any,11.5,14.5,%
+Neutrophils,Neutrophils|Neutrophil Count,any,40,60,%
+Lymphocytes,Lymphocytes|Lymphocyte Count,any,20,40,%
+Monocytes,Monocytes|Monocyte Count,any,2,8,%
+Eosinophils,Eosinophils|Eosinophil Count,any,1,4,%
+Basophils,Basophils|Basophil Count,any,0.5,1,%
+Blood Sugar Fasting,Blood Sugar Fasting|FBS|Fasting Glucose,any,70,100,mg/dL
+Blood Sugar PP,Blood Sugar PP|PPBS|Postprandial Glucose,any,0,140,mg/dL
+HbA1c,HbA1c|Glycated Hemoglobin,any,4.0,5.6,%
+Cholesterol,Total Cholesterol|Cholesterol,any,0,200,mg/dL
+HDL,HDL|HDL Cholesterol|Good Cholesterol,male,40,1000,mg/dL
+HDL,HDL|HDL Cholesterol|Good Cholesterol,female,50,1000,mg/dL
+LDL,LDL|LDL Cholesterol|Bad Cholesterol,any,0,100,mg/dL
+Triglycerides,TG|Triglycerides|Trigs,any,0,150,mg/dL
+Creatinine,Creatinine|Serum Creatinine,male,0.7,1.3,mg/dL
+Creatinine,Creatinine|Serum Creatinine,female,0.6,1.1,mg/dL
+Urea,Urea|Blood Urea,any,7,20,mg/dL
+BUN,BUN|Blood Urea Nitrogen,any,6,20,mg/dL
+Uric Acid,Uric Acid|UA,male,3.5,7.2,mg/dL
+Uric Acid,Uric Acid|UA,female,2.6,6.0,mg/dL
+SGPT,SGPT|ALT|Alanine Aminotransferase,any,0,45,U/L
+SGOT,SGOT|AST|Aspartate Aminotransferase,any,0,40,U/L
+ALP,ALP|Alkaline Phosphatase,any,44,147,U/L
+Total Bilirubin,Total Bilirubin|Bilirubin,any,0.1,1.2,mg/dL
+Direct Bilirubin,Direct Bilirubin|Conjugated Bilirubin,any,0,0.3,mg/dL
+Indirect Bilirubin,Indirect Bilirubin|Unconjugated Bilirubin,any,0,1.0,mg/dL
+Total Protein,Total Protein|Serum Protein,any,6.3,7.9,g/dL
+Albumin,Albumin|Serum Albumin,any,3.5,5.0,g/dL
+Globulin,Globulin|Serum Globulin,any,2.0,3.5,g/dL
+Sodium,Sodium|Na|Serum Sodium,any,135,145,mEq/L
+Potassium,Potassium|K|Serum Potassium,any,3.5,5.1,mEq/L
+Calcium,Calcium|Ca|Total Calcium,any,8.2,10.2,mg/dL
+Phosphorus,Phosphorus|Phosphate,any,2.5,4.5,mg/dL
+Magnesium,Magnesium|Serum Magnesium,any,1.7,2.2,mg/dL
+TSH,TSH|Thyroid Stimulating Hormone,any,0.4,4.2,uIU/mL
+T3,T3|Triiodothyronine|Total Triidothyronine,any,0.5,2,ng/dL
+T4,T4|Thyroxine|Total Thyroxin,any,4.4,11.6,ug/dL
+Vitamin B12,Vitamin B12|Cobalamin,any,200,900,pg/mL
+Vitamin D,Vitamin D|25-Hydroxy Vitamin D,any,20,50,ng/mL
+Iron,Iron|Serum Iron,any,60,170,mcg/dL
+Ferritin,Ferritin|Serum Ferritin,male,24,336,ng/mL
+Ferritin,Ferritin|Serum Ferritin,female,11,307,ng/mL
+CRP,CRP|C-Reactive Protein,any,0,3,mg/L
+ESR,ESR|Erythrocyte Sedimentation Rate,male,0,22,mm/hr
+ESR,ESR|Erythrocyte Sedimentation Rate,female,0,29,mm/hr

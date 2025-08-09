@@ -1,0 +1,21 @@
+You are a helpful AI medical assistant. Extract lab test values from the following line of a blood test report.
+
+Line:
+{text}
+
+Return a JSON array of objects in this format:
+[
+  {
+    "test": "Hemoglobin",
+    "value": 13.4,
+    "unit": "g/dL"
+  },
+  {
+    "test": "WBC",
+    "value": 7800,
+    "unit": "cells/mcL"
+  }
+]
+
+If no test is found, return an empty list [].
+Make sure the values are correct float/integer and units are clean strings. Remove extra text or garbage.
