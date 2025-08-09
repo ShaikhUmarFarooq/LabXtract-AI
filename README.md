@@ -72,8 +72,9 @@ Uses AI to explain abnormal values
 Generates a detailed downloadable report
 
 🖼 Sample Output
-(![alt text](<Screenshot 2025-08-09 212629-1.jpg>))
-![alt text](<Screenshot 2025-08-09 212543-1.jpg>)
+![LabXtract AI Output](output/20250809212250.mp4)
+![LabXtract AI Output](output/Screenshot 2025-08-09 212543.jpg)
+![LabXtract AI Output](output/Screenshot 2025-08-09 212629.jpg)
 
 📜 License
 This project is licensed under the MIT License.
